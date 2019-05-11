@@ -1,0 +1,22 @@
+{
+    "version": "1.1.0",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/meyermarcel/icm/releases/download/1.1.0/icm_Windows_i386.zip",
+            "bin": [
+                "icm.exe"
+            ],
+            "hash": "eb1bd622dc369e96b39d4cd715bba900bd6f6ccd0e8b1f2615418e3590074a68"
+        },
+        "64bit": {
+            "url": "https://github.com/meyermarcel/icm/releases/download/1.1.0/icm_Windows_x86_64.zip",
+            "bin": [
+                "icm.exe"
+            ],
+            "hash": "3b73351615d62502d571a4ba3ed644d321766a2d6b9cc871eec250faf54bc0c4"
+        }
+    },
+    "homepage": "https://github.com/meyermarcel/icm",
+    "license": "Apache-2.0",
+    "description": "Generate or validate intermodal container markings."
+}
