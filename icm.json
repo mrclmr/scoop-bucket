@@ -6,14 +6,14 @@
             "bin": [
                 "icm.exe"
             ],
-            "hash": "14c02b2922514797fb8a8125de3400df5863beadeda6f64d21c7319aeb1bc8e8"
+            "hash": "3505b05007b28106efd2b8b744015beeff3814082a1c242fb02ea75324fbcbd5"
         },
         "64bit": {
             "url": "https://github.com/meyermarcel/icm/releases/download/1.2.0/icm_Windows_x86_64.zip",
             "bin": [
                 "icm.exe"
             ],
-            "hash": "bca233acf2dd27b999de12a8490d9503c534ac8b34ded4221f1c1cb0b6fb972d"
+            "hash": "d927ca39f705fff885b38b695b41360f01380d2d18ae7ffdb9b7f1f06b4defb0"
         }
     },
     "homepage": "https://github.com/meyermarcel/icm",
