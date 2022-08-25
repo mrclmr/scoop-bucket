@@ -1,19 +1,19 @@
 {
-    "version": "2.3.3",
+    "version": "2.3.4",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/meyermarcel/icm/releases/download/2.3.3/icm_Windows_i386.zip",
+            "url": "https://github.com/meyermarcel/icm/releases/download/2.3.4/icm_Windows_i386.zip",
             "bin": [
                 "icm.exe"
             ],
-            "hash": "dd1ae80faed0c3e501730d196098b9c7654157690f7f7bed83c1de15c3bdf554"
+            "hash": "861837acf318056c77fbd39cb103c9204820c53ebfad67129492b8c47a5c5244"
         },
         "64bit": {
-            "url": "https://github.com/meyermarcel/icm/releases/download/2.3.3/icm_Windows_x86_64.zip",
+            "url": "https://github.com/meyermarcel/icm/releases/download/2.3.4/icm_Windows_x86_64.zip",
             "bin": [
                 "icm.exe"
             ],
-            "hash": "ec4b061499c3e3acc82ceb4ef21b3d695658daf2345bab06ca17cb9952862c4c"
+            "hash": "00d3c58abb4548758eaea2786e5d8f082f8586d0335baae828df1ccd6ef7afed"
         }
     },
     "homepage": "https://github.com/meyermarcel/icm",
