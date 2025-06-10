@@ -6,21 +6,21 @@
             "bin": [
                 "icm.exe"
             ],
-            "hash": "6ee84ef594bc846f4184f3e85767a2c16ae73d15cccf513c9ab963f92475c28c"
+            "hash": "b9596d3b59b9d9feb42fd3471b12fadefda0d8ef5cd2c504b1ae46d46b9af002"
         },
         "64bit": {
             "url": "https://github.com/mrclmr/icm/releases/download/3.2.10/icm_Windows_x86_64.zip",
             "bin": [
                 "icm.exe"
             ],
-            "hash": "ab8a71a6ac3687ecec1d6eab048bf96d1b015fb5b6ae298d5d2989f21a259861"
+            "hash": "edd4ef177ad6cf1ec56ed3c294896abc62ebdced7f29d86ef735750e8d38017b"
         },
         "arm64": {
             "url": "https://github.com/mrclmr/icm/releases/download/3.2.10/icm_Windows_arm64.zip",
             "bin": [
                 "icm.exe"
             ],
-            "hash": "df0fb1d6922ffd9a88137aa772d6e73b2236dab2a916fe46bae4e47dbd9cbf68"
+            "hash": "0e734bffb192d6ce235c8428880d5ca0280a3b114b5db06e1bb8832db29ad36e"
         }
     },
     "homepage": "https://github.com/mrclmr/icm",
