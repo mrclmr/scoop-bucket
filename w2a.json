@@ -1,0 +1,34 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/mrclmr/w2a/releases/download/v0.1.0/w2a_Windows_i386.zip",
+            "bin": [
+                "w2a.exe"
+            ],
+            "hash": "400e23889ef6abd5ea7f5e10d71994bb07db70ea4d237c1e7ab8482dad81cad4"
+        },
+        "64bit": {
+            "url": "https://github.com/mrclmr/w2a/releases/download/v0.1.0/w2a_Windows_x86_64.zip",
+            "bin": [
+                "w2a.exe"
+            ],
+            "hash": "74695c4b1b5f78b7c2a6aca5e94044147cd8e2c035ff9bfc609805aabfe2b49b"
+        },
+        "arm64": {
+            "url": "https://github.com/mrclmr/w2a/releases/download/v0.1.0/w2a_Windows_arm64.zip",
+            "bin": [
+                "w2a.exe"
+            ],
+            "hash": "63bf8434afad0527a938cd8ac7b6ae4909b82becfec623f183e224f63904d514"
+        }
+    },
+    "homepage": "https://github.com/mrclmr/w2a",
+    "license": "MIT",
+    "description": "Convert a workout yaml file to audio files.",
+    "depends": [
+        "sox",
+        "espeak-ng",
+        "ffmpeg"
+    ]
+}
