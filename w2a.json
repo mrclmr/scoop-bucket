@@ -6,21 +6,21 @@
             "bin": [
                 "w2a.exe"
             ],
-            "hash": "08732876111e4b9fbb30b86c7bd64718ddd5dd84769ff32510d6cda7f7826479"
+            "hash": "534d015826a60f9b36e4085ca3c6113cc3e6de09694cf38ac51db5dbcdab9f3e"
         },
         "64bit": {
             "url": "https://github.com/mrclmr/w2a/releases/download/v0.3.0/w2a_Windows_x86_64.zip",
             "bin": [
                 "w2a.exe"
             ],
-            "hash": "9fe3a49c4b344d1f54d81ba48b437145ba84f37cca0b1b902adca8d04c032384"
+            "hash": "93c26a07c17e9c8ecc29dacae56919c798277f6f2f8db532f11dd4e00ded4ce5"
         },
         "arm64": {
             "url": "https://github.com/mrclmr/w2a/releases/download/v0.3.0/w2a_Windows_arm64.zip",
             "bin": [
                 "w2a.exe"
             ],
-            "hash": "de663b138b73d82470053eaf893365d418a8ce29d3e9d9f75869f40547d39ea8"
+            "hash": "257fa5df6d4a619cdd22ba23f314f36add68e2ff9840535af974ac869b8fd555"
         }
     },
     "homepage": "https://github.com/mrclmr/w2a",
