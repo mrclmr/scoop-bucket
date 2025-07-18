@@ -1,26 +1,26 @@
 {
-    "version": "0.2.0",
+    "version": "0.3.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/mrclmr/w2a/releases/download/v0.2.0/w2a_Windows_i386.zip",
+            "url": "https://github.com/mrclmr/w2a/releases/download/v0.3.0/w2a_Windows_i386.zip",
             "bin": [
                 "w2a.exe"
             ],
-            "hash": "41ac0553f87de33847529db295759dbc0715f4d8100cfd8a1a087f4b812b31b6"
+            "hash": "08732876111e4b9fbb30b86c7bd64718ddd5dd84769ff32510d6cda7f7826479"
         },
         "64bit": {
-            "url": "https://github.com/mrclmr/w2a/releases/download/v0.2.0/w2a_Windows_x86_64.zip",
+            "url": "https://github.com/mrclmr/w2a/releases/download/v0.3.0/w2a_Windows_x86_64.zip",
             "bin": [
                 "w2a.exe"
             ],
-            "hash": "d26231dac08daa4c984e95d217e21d7d0a4e427135ad99b9eea591642bf6fe65"
+            "hash": "9fe3a49c4b344d1f54d81ba48b437145ba84f37cca0b1b902adca8d04c032384"
         },
         "arm64": {
-            "url": "https://github.com/mrclmr/w2a/releases/download/v0.2.0/w2a_Windows_arm64.zip",
+            "url": "https://github.com/mrclmr/w2a/releases/download/v0.3.0/w2a_Windows_arm64.zip",
             "bin": [
                 "w2a.exe"
             ],
-            "hash": "c106489421c7ae3fc2f43ba5c9cb8cf9e68c082b060f3f1a2d23d04529a8e8f2"
+            "hash": "de663b138b73d82470053eaf893365d418a8ce29d3e9d9f75869f40547d39ea8"
         }
     },
     "homepage": "https://github.com/mrclmr/w2a",
