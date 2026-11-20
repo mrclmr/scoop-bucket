@@ -1,26 +1,26 @@
 {
-    "version": "3.3.0",
+    "version": "3.3.1",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/mrclmr/icm/releases/download/v3.3.0/icm_Windows_i386.zip",
+            "url": "https://github.com/mrclmr/icm/releases/download/v3.3.1/icm_Windows_i386.zip",
             "bin": [
                 "icm.exe"
             ],
-            "hash": "7fdf93883f434b7b26c4e4ba72c1e80fdf84f40125b7f138a65d6532076590d8"
+            "hash": "7337a6e6c49b2656652fc4546d45f05206864ece2fd7311f2eb28ca57d71e7cd"
         },
         "64bit": {
-            "url": "https://github.com/mrclmr/icm/releases/download/v3.3.0/icm_Windows_x86_64.zip",
+            "url": "https://github.com/mrclmr/icm/releases/download/v3.3.1/icm_Windows_x86_64.zip",
             "bin": [
                 "icm.exe"
             ],
-            "hash": "9cfb9b122a4627dec321f0915f1707464221af4aca4f183f5176bcbf0b267529"
+            "hash": "82da3650e8e29bc2fa0069b33401180bd75b810a4d88968887933e50a7a6d3a7"
         },
         "arm64": {
-            "url": "https://github.com/mrclmr/icm/releases/download/v3.3.0/icm_Windows_arm64.zip",
+            "url": "https://github.com/mrclmr/icm/releases/download/v3.3.1/icm_Windows_arm64.zip",
             "bin": [
                 "icm.exe"
             ],
-            "hash": "0c2f8c1af7e779a28501f06dd8526e4a6ccd0ffd458f17ca79dbdae80afa45da"
+            "hash": "85d986d9e39915ae1154c4a2cf6d06072d8f675ff546fb720cb0b9e02a826bc0"
         }
     },
     "homepage": "https://github.com/mrclmr/icm",
